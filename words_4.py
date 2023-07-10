@@ -620,7 +620,7 @@ blank_start = visual.ImageStim(
 
 # --- Initialize components for Routine "instruction_3" ---
 text_3 = visual.TextStim(win=win, name='text_3',
-    text='A teraz warunek zerowy - najprostszy możliwy, w którym bez użycia EEG sprawdzimy, czy słowa są przetwarzane semantycznie.\n\nTym razem zadanie polega na reagowaniu na CZERWONE targety. Należy jak najszybciej nacisnąć Z, gdy zobaczy się czerwone słowo i M, gdy zobaczy się czerwone pseudosłowo.',
+    text='',
     font='Arial',
     pos=(0, 0), height=0.03, wrapWidth=None, ori=0, 
     color='black', colorSpace='rgb', opacity=1, 
